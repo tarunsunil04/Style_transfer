@@ -1,0 +1,1 @@
+A repository containing methods of stylistic transfer (amongst images) using Diffusion Models and SIRENs. CLIP is used as a loss function, to better guide the transfer process using text descriptions.
